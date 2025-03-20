@@ -37,3 +37,45 @@ High quality, highly detailed, ultra-detailed, photorealistic, 4K, 8K, UHD, shar
 ## General Technical Terms
 
 - CGI, VFX, Octane render, Unreal Engine, ray tracing, high dynamic range (HDR), PBR (Physically Based Rendering), procedural generation, motion blur, depth map, texture mapping, 3D render, ambient occlusion, global illumination, shader, voxel, subsurface scattering.
+
+---
+
+# General Quality Negatives
+
+- Low quality, blurry, pixelated, noisy, distorted, overexposed, underexposed, washed out, dull colors, unrealistic, over-sharpened, jagged edges, unrefined, unpolished, compressed.
+
+---
+
+## Style & Rendering Negatives
+
+- Amateur, messy, unfinished, rough sketch, poorly drawn, low-resolution, simplistic, flat shading, unbalanced composition, bad anatomy, uncanny, uncanny valley, AI artifacts, stretched, deformed, unnatural proportions.
+
+---
+
+## Lighting & Atmosphere Negatives
+
+- Overexposed, underexposed, harsh lighting, excessive contrast, washed-out colors, dark shadows, inconsistent lighting, unrealistic reflections, unnatural glow, flat lighting, uneven lighting.
+
+---
+
+## Composition & Focus Negatives
+
+- Off-center (if centered composition is needed), cluttered, chaotic, unbalanced, poor framing, tilted, extreme close-up (if not needed), unintentional fisheye distortion, awkward cropping, bad perspective, random objects in the foreground.
+
+---
+
+## Time & Style Periods Negatives
+
+- Outdated, anachronistic, unfitting era, incorrect historical elements, inconsistent style, wrong time period elements (e.g., futuristic elements in a medieval setting).
+
+---
+
+## Emotion & Theme Negatives
+
+- Boring, generic, lifeless, uninspired, overly dramatic, too exaggerated, stiff, static, unnatural emotions, unexpressive, forced expressions.
+
+---
+
+## Technical Negatives
+
+- Artifacts, AI glitches, extra limbs, missing limbs, fused body parts, warped faces, asymmetrical anatomy (unless intentional), duplicated features, bad hands, incorrect fingers, blurry details, pixel artifacts, poor texture mapping, excessive motion blur, stretched textures.
